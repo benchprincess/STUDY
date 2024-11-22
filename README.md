@@ -1,5 +1,5 @@
-.   
+```text   
+.
 ├── Network   
-└── README.md
-
-2 directories, 1 file
+└── README.md   
+```
