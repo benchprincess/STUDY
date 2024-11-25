@@ -78,4 +78,8 @@ HTTP METHOD 는 크게 8가지가 있으며, 다음과 같다.
 
 <br><hr>
 
-## 주요 HTTP METHOD 내용 정리
+## 주요 HTTP METHOD 내용 정리   
+> GET   
+
+리소스를 조회할 때 사용하는 HTTP 메서드이다.   
+서버를 전달하고 싶은 데이터가 있을 때 Query string을 통해 전달할 수 있다.
